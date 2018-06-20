@@ -1,9 +1,6 @@
 /*
  * Klasse Arrayelement
  * 
- * Author: Diletta Calussi
- * Matrikel-Nr.: s0559842
- * 
  * 18.04.2017
  * 
  * Programmierung 2 - Blatt 1

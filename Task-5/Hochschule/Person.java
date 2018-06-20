@@ -1,7 +1,4 @@
-/**
- * @author Diletta Calussi
- * Matrikel-Nr. s0559842
- * 
+/** * 
  * Hauptklasse Person
  * 
  */

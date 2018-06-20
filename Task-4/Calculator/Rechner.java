@@ -1,6 +1,4 @@
 /**
- * @author Diletta Calussi 
- * Matrikel-Nr.: s0559842 
  * Datum: 06.05.2017
  * 
  * Klasse Rechner

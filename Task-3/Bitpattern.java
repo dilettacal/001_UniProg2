@@ -1,6 +1,4 @@
 /*
- * Author: Diletta Calussi
- * Matrikel-Nr.: s0559842
  * Datum: 01.05.2017
  * 
  * Klasse Bitpattern

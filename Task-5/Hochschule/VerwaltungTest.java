@@ -4,10 +4,6 @@ import java.util.Arrays;
 
 import org.junit.Test;
 
-/**
- * @author Diletta Calussi
- *
- */
 public class VerwaltungTest {
 	
 	static Person p1 = new Person ("Lukas", "Meier", 'm');
